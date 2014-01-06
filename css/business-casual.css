@@ -235,7 +235,7 @@ footer .contact ul li i {
 .artist-main {
   list-style-type: none;
   height: 30px;
-  margin-bottom: 40px;
+  margin-bottom: 80px;
   text-align: center;
 }
 
@@ -357,3 +357,4 @@ footer .contact ul li i {
     min-height: 1024px;
   }
 }
+
